@@ -7,8 +7,7 @@ keywords:
 lang: en-US
 date-meta: '2024-02-18'
 author-meta:
-- John Doe
-- Jane Roe
+- Trevor "Cool Kid" Rife
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,31 +22,26 @@ header-includes: |
   <meta name="dc.date" content="2024-02-18" />
   <meta name="citation_publication_date" content="2024-02-18" />
   <meta property="article:published_time" content="2024-02-18" />
-  <meta name="dc.modified" content="2024-02-18T00:33:24+00:00" />
-  <meta property="article:modified_time" content="2024-02-18T00:33:24+00:00" />
+  <meta name="dc.modified" content="2024-02-18T00:34:20+00:00" />
+  <meta property="article:modified_time" content="2024-02-18T00:34:20+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Trevor &#34;Cool Kid&#34; Rife" />
+  <meta name="citation_author_institution" content="Clemson University" />
+  <meta name="citation_author_orcid" content="0000-0002-5974-6523" />
   <link rel="canonical" href="https://trife.github.io/lab-manual/" />
   <meta property="og:url" content="https://trife.github.io/lab-manual/" />
   <meta property="twitter:url" content="https://trife.github.io/lab-manual/" />
   <meta name="citation_fulltext_html_url" content="https://trife.github.io/lab-manual/" />
   <meta name="citation_pdf_url" content="https://trife.github.io/lab-manual/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://trife.github.io/lab-manual/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://trife.github.io/lab-manual/v/e786e68ac7f13a24a0824b5bcb9301dda86b7e8c/" />
-  <meta name="manubot_html_url_versioned" content="https://trife.github.io/lab-manual/v/e786e68ac7f13a24a0824b5bcb9301dda86b7e8c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://trife.github.io/lab-manual/v/e786e68ac7f13a24a0824b5bcb9301dda86b7e8c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://trife.github.io/lab-manual/v/1dd089c546c6a15b6005cb0427397beb35d2e8a8/" />
+  <meta name="manubot_html_url_versioned" content="https://trife.github.io/lab-manual/v/1dd089c546c6a15b6005cb0427397beb35d2e8a8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://trife.github.io/lab-manual/v/1dd089c546c6a15b6005cb0427397beb35d2e8a8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://trife.github.io/lab-manual/v/e786e68ac7f13a24a0824b5bcb9301dda86b7e8c/))
+([permalink](https://trife.github.io/lab-manual/v/1dd089c546c6a15b6005cb0427397beb35d2e8a8/))
 was automatically generated
-from [trife/lab-manual@e786e68](https://github.com/trife/lab-manual/tree/e786e68ac7f13a24a0824b5bcb9301dda86b7e8c)
+from [trife/lab-manual@1dd089c](https://github.com/trife/lab-manual/tree/1dd089c546c6a15b6005cb0427397beb35d2e8a8)
 on February 18, 2024.
 </em></small>
 
@@ -81,39 +75,20 @@ on February 18, 2024.
 
 
 
-+ **John Doe**
++ **Trevor "Cool Kid" Rife**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-5974-6523](https://orcid.org/0000-0002-5974-6523)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
-    · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
-    [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
+    [trife](https://github.com/trife)
     <br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**
-  ^[✉](#correspondence)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
-    <br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Clemson University
   </small>
 
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/trife/lab-manual/issues)
-or email to
-Jane Roe \<jane.roe@whatever.edu\>.
-
 
 :::
 
