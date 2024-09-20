@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/trife/lab-manual/tree/gh-pages) branch hosts the contents of this directory at <https://trife.github.io/lab-manual/>.
-The permalink for this webpage version is <https://trife.github.io/lab-manual/v/6a7795db480ca54456c052448f10d523d8e54570/>.
+The permalink for this webpage version is <https://trife.github.io/lab-manual/v/94172ac2c0f4735c4c6ef730bc180db7e832266f/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://trife.github.io/lab-manual/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`6a7795db480ca54456c052448f10d523d8e54570`](https://github.com/trife/lab-manual/commit/6a7795db480ca54456c052448f10d523d8e54570).
+[`94172ac2c0f4735c4c6ef730bc180db7e832266f`](https://github.com/trife/lab-manual/commit/94172ac2c0f4735c4c6ef730bc180db7e832266f).
