@@ -19,8 +19,8 @@ header-includes: |
   <meta name="dc.date" content="2024-09-20" />
   <meta name="citation_publication_date" content="2024-09-20" />
   <meta property="article:published_time" content="2024-09-20" />
-  <meta name="dc.modified" content="2024-09-20T08:54:23+00:00" />
-  <meta property="article:modified_time" content="2024-09-20T08:54:23+00:00" />
+  <meta name="dc.modified" content="2024-09-20T09:06:52+00:00" />
+  <meta property="article:modified_time" content="2024-09-20T09:06:52+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -36,9 +36,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://trife.github.io/lab-manual/" />
   <meta name="citation_pdf_url" content="https://trife.github.io/lab-manual/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://trife.github.io/lab-manual/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://trife.github.io/lab-manual/v/146c2abde72bbdbba4b507d87d14d7f8798449ad/" />
-  <meta name="manubot_html_url_versioned" content="https://trife.github.io/lab-manual/v/146c2abde72bbdbba4b507d87d14d7f8798449ad/" />
-  <meta name="manubot_pdf_url_versioned" content="https://trife.github.io/lab-manual/v/146c2abde72bbdbba4b507d87d14d7f8798449ad/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://trife.github.io/lab-manual/v/6a7795db480ca54456c052448f10d523d8e54570/" />
+  <meta name="manubot_html_url_versioned" content="https://trife.github.io/lab-manual/v/6a7795db480ca54456c052448f10d523d8e54570/" />
+  <meta name="manubot_pdf_url_versioned" content="https://trife.github.io/lab-manual/v/6a7795db480ca54456c052448f10d523d8e54570/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,9 +60,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://trife.github.io/lab-manual/v/146c2abde72bbdbba4b507d87d14d7f8798449ad/))
+([permalink](https://trife.github.io/lab-manual/v/6a7795db480ca54456c052448f10d523d8e54570/))
 was automatically generated
-from [trife/lab-manual@146c2ab](https://github.com/trife/lab-manual/tree/146c2abde72bbdbba4b507d87d14d7f8798449ad)
+from [trife/lab-manual@6a7795d](https://github.com/trife/lab-manual/tree/6a7795db480ca54456c052448f10d523d8e54570)
 on September 20, 2024.
 </em></small>
 
@@ -145,7 +145,6 @@ To propose changes: fork the repository, edit the files you wish, and create a p
 * Stay up to date on the latest research by using RSS feeds and/or getting journal table of contents. Also consider following scientists in the field on social media.
 
 ### Small Picture
-There are a few day-to-day things to keep in mind to keep the lab running smoothly.
 * If you’re sick, stay home and take care of yourself. Because you need it and also because others don’t need to get sick. Reschedule your meetings for the day (or the next couple of days) as soon as you can.
 * Notify Trevor if you will be out, either due to illness or vacation. Make a note on the lab travel calendar.
 * Take a vacation! Good science benefits from clear thinking. When going on vacation, make sure to fill out your leave requests through the appropriate system, notify Trevor, and make sure to put it on lab travel calendar.
@@ -158,6 +157,118 @@ There are a few day-to-day things to keep in mind to keep the lab running smooth
 * Be on time. Especially when you are running experiments or leading meetings. Respect that others also have busy schedules and everyone’s time is valuable. If you will be late, notify others if you can.
 * Be a good lab member, which includes helping with shared responsibilities, maintenance of a safe and clean space, and demonstration of respect towards personnel.
 
+
+## Code of Conduct {.page_break_before}
+
+All members of the lab, including visitors, are expected to follow this code of conduct.
+We expect cooperation from all members to help ensure a safe environment for everyone.
+
+**The lab is dedicated to providing a harassment-free experience for everyone.**\
+**We do not tolerate harassment of lab members in any form.**
+
+### Harassment
+The lab is committed to ensuring a safe, friendly, and accepting environment for everybody.
+We will not tolerate any verbal or physical harassment or discrimination on the basis of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion.
+We will not tolerate intimidation, stalking, following, unwanted photography or video recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+Members asked to stop any harassing behavior are expected to comply immediately.
+Sexual language and imagery is generally not appropriate for any lab venue, including lab meetings, presentations, or discussions.
+
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Trevor immediately.
+If Trevor is the cause of your concern, talk with one of the other members of the PDREC administrative staff.
+For official concerns, please see the [Clemson University ombuds office](https://www.clemson.edu/administration/ombuds/index.html).
+
+### Respect
+You are expected to be respectful, tolerant, and non-discriminatory towards your colleagues both in the lab and at the university.
+We adhere to all university policies on harassment and discrimination.
+I expect lab members to contribute to a productive and friendly environment conducive to learning and research.
+This includes treating your colleagues with respect, listening to others’ viewpoints and ideas, and ensuring the lab is a place where everybody feels welcome and appreciated.
+
+### Scientific Integrity
+All members of the Rife lab are expected to conduct research with the highest standard of rigor and integrity while upholding Clemson's [Standards of Ethical Conduct](https://www.clemson.edu/administration/compliance/standards-ethical-conduct.html).
+
+You have a responsibility to me, the institutions that support our work, and the broader scientific community to maintain the highest standards of scientific accuracy and integrity while being a faithful steward of state and federal grant funds.
+By being in the lab, you agree to adhere to professional ethical standards including accurate documentation of experimental design, results, and interpretation in a lab notebook.
+You are obligated to be honest, trustworthy, and transparent in your scientific research.
+
+It is also important that you prioritize the accuracy of your work.
+Unintentional errors due to inattentiveness or rushing can be extremely damaging and produce results that turn out to be incorrect.
+It is critical that experiments are designed to minimize error and maximize quality results.
+Please double-check your work frequently and don't hesitate to ask a colleague to look over a dataset or analysis.
+
+If you have any questions, or in the unlikely event that you have concerns about a research practice you have seen in the lab, please talk to me immediately.
+If you are feeling pressured to succeed (publish a lot, publish in high impact journals, etc.), you should reach out to Trevor to discuss.
+This pressure is something we all face but is never an excuse for research misconduct.
+
+### Research Misconduct
+The Rife Lab is committed to ensuring research integrity and we take a hard line on research misconduct.
+We will not tolerate plagiarism, fabrication, or falsification.
+These activities are unacceptable in any form, whether as part of course work or research activities.
+Plagiarism and falsifying information have severe consequences including course failure, possible firing, or dismissal from the degree program.
+Research misconduct is a disservice to you and risks your entire career.
+It is never right and never worth it. Don’t do it.
+
+From the [Clemson University Academic Integrity Policy](https://www.clemson.edu/academics/integrity/plagiarism.html):
+
+> "Plagiarism, which includes the intentional or unintentional copying of language, structure, or ideas of another and attributing the work to one's own efforts" is absolutely not allowed, whether as part of course work or research activities."
+
+From the [Graduate School Policy handbook](https://www.clemson.edu/graduate/academics/policies-and-procedures.html):
+> "Fabricating or falsifying information involves actions such as making up data that were not collected, stating that studies were conducted that were not, indicating that original source material was read when information was obtained from secondary or tertiary sources, making up references not used, or identifying sources that were not consulted (e.g., telephone interviews)."
+
+## Safety {.page_break_before}
+
+Your health and safety are more important than your research and require adhering to lab safety codes.
+Never work in the lab if you are feeling sick, under medication that might affect your ability to work normally, or are under the effects of any kind of drug.
+Avoid working in the lab by yourself doing potentially dangerous activities, and please be aware of Clemson resources and training on lab safety.
+
+All lab members are expected to comply with University, REC, and lab safety protocols.
+All lab members are must undergo mandatory comprehensive safety training for lab and pesticide safety.
+Lab safety and other trainings will be presented online via TigerTraining or Bioraft/Scishield.
+Contact [Sara Pederson](mailto:speders@clemson.edu) to schedule your pesticide safety training.
+Information specific to the Pee Dee REC can be found on the [REC website](https://www.clemson.edu/cafls/research/peedee/safety_compliance.html)
+
+### Safety Data Sheets (SDS)
+SDS are an excellent source of information on the health and physical hazards of chemicals.
+SDS should always be reviewed before using a new chemical.
+Our SDSs are located in (todo).
+When a new chemical is purchased, the ordering party is responsible for adding the SDS into our collection.
+
+### Gloves
+* *Do not touch door handles, elevator buttons, OR PHONES with gloved hands!*
+* Gloves should not be worn outside of the lab.
+* Wash hands every time gloves are removed.
+* Wash hands before leaving the lab for any reason.
+* Gloves should not be worn while using a cell phone.
+* Disposable lab gloves should not be reused once they are removed.
+* Remove gloves in lab when not needed for handling chemicals to minimize the potential for contamination of lab surfaces.
+* Gloves that have contact involving acutely/highly toxic chemicals or [P-listed chemicals](https://www.epa.gov/hw/defining-hazardous-waste-listed-characteristic-and-mixed-radiological-wastes#PandU) should be disposed of as hazardous waste. Carefully remove these gloves, avoiding contact with skin. Wash hands with soap and water before putting on new gloves.
+
+### Lab Attire
+New lab members may request a lab coat if necessary for your research.
+When performing experiments, members should wear closed toe shoes, long pants, and should tie back long hair.
+
+### Injuries and Accidents
+In case of injury, it is an employee’s responsibility to notify his/her supervisor or department head immediately.
+Any injury, no matter how slight, must be reported to Trevor.
+Follow the [injury or accident reporting procedures](https://www.clemson.edu/administration/risk/workers-comp/).
+There are [separate forms](https://media.clemson.edu/research/safety/DSCs/Incident_Report_Form.pdf) that must be filled out depending on whether or not medical treatment was required.
+
+### Emergencies
+Hurricane season is June 1 - November 30.
+In the event of a tropical storm or hurricane, please follow [state](https://www.scemd.org/stay-informed/publications/hurricane-guide), university, and PDREC guidelines.
+
+Loss of power is common at PDREC during storms.
+There is a generator for the building, but it occasionally fails.
+In the event of power loss while you're workign in the lab, unplug hot plates or other equipment and store in-progress samples if possible and safe. **Do not open any fridges or freezers if the power is off.**
+
+### References
+* [Clemson's Occupational and Environmental Safety](https://www.clemson.edu/research/oes/)
+* [Biological Safety](https://www.clemson.edu/research/oes/biosafety/)
+* [Hazardous Material Shipping](https://www.clemson.edu/research/oes/shipping.html)
+* [Hazardous Waste Management](https://www.clemson.edu/research/oes/hazardouswaste/)
+* [Lab Door Signs](https://www.clemson.edu/research/oes/lab-door.html)
+* [Lab Safety](https://www.clemson.edu/research/oes/chemsafety/)
+* [Online Safety Manuals](https://www.clemson.edu/research/oes/manuals/)
+* [Respiratory Protection](https://www.clemson.edu/research/oes/ihsafety/respiratoryprot.html)
 
 ## Expectations {.page_break_before}
 
@@ -258,7 +369,7 @@ Mistreatment will not be tolerated.
 ### Leave
 These guidelines are intended to cover logistics for planned time off (2+ days in duration).
 
-#### Time Off Guidelines for Full-Time Rife Lab Members  
+#### Time Off Guidelines for Full-Time Rife Lab Members
 All full-time Rife Lab members are encouraged to take up to 15 days of vacation each year in addition to the 13 days of official University holiday (Martin Luther King Jr. Day, Memorial Day, Independence Day, Labor Day, Election Day, Thanksgiving (2 days), Winter break (6 days)).
 
 * There is flexibility to our leave policy- contact Trevor to discuss extenuating circumstances.
@@ -304,118 +415,6 @@ I am usually unavailable during the weekend, so ensure that I'm aware of any imp
 I will occassionally send emails or Slack messages outside of normal working hours--I do not expect you to respond to any messages outside of normal working hours.
 If off-hours messages are unwelcome, please let me know.
 In case of emergencies, contact me by cell phone at any time.
-
-## Code of Conduct {.page_break_before}
-
-All members of the lab, including visitors, are expected to follow this code of conduct.
-We expect cooperation from all members to help ensure a safe environment for everyone.
-
-**The lab is dedicated to providing a harassment-free experience for everyone.**\
-**We do not tolerate harassment of lab members in any form.**
-
-### Harassment
-The lab is committed to ensuring a safe, friendly, and accepting environment for everybody.
-We will not tolerate any verbal or physical harassment or discrimination on the basis of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion.
-We will not tolerate intimidation, stalking, following, unwanted photography or video recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
-Members asked to stop any harassing behavior are expected to comply immediately.
-Sexual language and imagery is generally not appropriate for any lab venue, including lab meetings, presentations, or discussions.
-
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Trevor immediately.
-If Trevor is the cause of your concern, talk with one of the other members of the PDREC administrative staff.
-For official concerns, please see the [Clemson University ombuds office](https://www.clemson.edu/administration/ombuds/index.html).
-
-### Respect
-You are expected to be respectful, tolerant, and non-discriminatory towards your colleagues both in the lab and at the university.
-We adhere to all university policies on harassment and discrimination.
-I expect lab members to contribute to a productive and friendly environment conducive to learning and research.
-This includes treating your colleagues with respect, listening to others’ viewpoints and ideas, and ensuring the lab is a place where everybody feels welcome and appreciated.
-
-### Scientific Integrity
-All members of the Rife lab are expected to conduct research with the highest standard of rigor and integrity while upholding Clemson's [Standards of Ethical Conduct](https://www.clemson.edu/administration/compliance/standards-ethical-conduct.html).
-
-You have a responsibility to me, the institutions that support our work, and the broader scientific community to maintain the highest standards of scientific accuracy and integrity while being a faithful steward of state and federal grant funds.
-By being in the lab, you agree to adhere to professional ethical standards including accurate documentation of experimental design, results, and interpretation in a lab notebook.
-You are obligated to be honest, trustworthy, and transparent in your scientific research.
-
-It is also important that you prioritize the accuracy of your work.
-Unintentional errors due to inattentiveness or rushing can be extremely damaging and produce results that turn out to be incorrect.
-It is critical that experiments are designed to minimize error and maximize quality results.
-Please double-check your work frequently and don't hesitate to ask a colleague to look over a dataset or analysis.
-
-If you have any questions, or in the unlikely event that you have concerns about a research practice you have seen in the lab, please talk to me immediately.
-If you are feeling pressured to succeed (publish a lot, publish in high impact journals, etc.), you should reach out to Trevor to discuss.
-This pressure is something we all face but is never an excuse for research misconduct.
-
-### Research Misconduct
-The Rife Lab is committed to ensuring research integrity and we take a hard line on research misconduct.
-We will not tolerate plagiarism, fabrication, or falsification.
-These activities are unacceptable in any form, whether as part of course work or research activities.
-Plagiarism and falsifying information have severe consequences including course failure, possible firing, or dismissal from the degree program.
-Research misconduct is a disservice to you and risks your entire career.
-It is never right and never worth it. Don’t do it.
-
-From the [Clemson University Academic Integrity Policy](https://www.clemson.edu/academics/integrity/plagiarism.html):
-
-> "Plagiarism, which includes the intentional or unintentional copying of language, structure, or ideas of another and attributing the work to one's own efforts" is absolutely not allowed, whether as part of course work or research activities."
-
-From the [Graduate School Policy handbook](https://www.clemson.edu/graduate/academics/policies-and-procedures.html):
-> "Fabricating or falsifying information involves actions such as making up data that were not collected, stating that studies were conducted that were not, indicating that original source material was read when information was obtained from secondary or tertiary sources, making up references not used, or identifying sources that were not consulted (e.g., telephone interviews)."
-
-## Safety {.page_break_before}
-
-Your health and safety are more important than your research and require adhering to lab safety codes.
-Never work in the lab if you are feeling sick, under medication that might affect your ability to work normally, or are under the effects of any kind of drug.
-Avoid working in the lab by yourself doing potentially dangerous activities, and please be aware of Clemson resources and training on lab safety.
-
-All lab members are expected to comply with University, REC, and lab safety protocols.
-All lab members are must undergo mandatory comprehensive safety training for lab and pesticide safety.
-Lab safety and other trainings will be presented online via TigerTraining or Bioraft/Scishield.
-Contact [Sara Pederson](mailto:speders@clemson.edu) to schedule your pesticide safety training.
-Information specific to the Pee Dee REC can be found on the [REC website](https://www.clemson.edu/cafls/research/peedee/safety_compliance.html)
-
-### Safety Data Sheets (SDS)
-SDS are an excellent source of information on the health and physical hazards of chemicals.
-SDS should always be reviewed before using a new chemical.
-Our SDSs are located in (todo).
-When a new chemical is purchased, the ordering party is responsible for adding the SDS into our collection.
-
-### Gloves
-*Do not touch door handles, elevator buttons, OR PHONES with gloved hands!*
-* Gloves should not be worn outside of the lab.
-* Wash hands every time gloves are removed.
-* Wash hands before leaving the lab for any reason.
-* Gloves should not be worn while using a cell phone.
-* Disposable lab gloves should not be reused once they are removed.
-* Remove gloves in lab when not needed for handling chemicals to minimize the potential for contamination of lab surfaces.
-* Gloves that have contact involving acutely/highly toxic chemicals or [P-listed chemicals](https://www.epa.gov/hw/defining-hazardous-waste-listed-characteristic-and-mixed-radiological-wastes#PandU) should be disposed of as hazardous waste. Carefully remove these gloves, avoiding contact with skin. Wash hands with soap and water before putting on new gloves.
-
-### Lab Attire
-New lab members may request a lab coat if necessary for your research.
-When performing experiments, members should wear closed toe shoes, long pants, and should tie back long hair.
-
-### Injuries and Accidents
-In case of injury, it is an employee’s responsibility to notify his/her supervisor or department head immediately.
-Any injury, no matter how slight, must be reported to Trevor.
-Follow the [injury or accident reporting procedures](https://www.clemson.edu/administration/risk/workers-comp/).
-There are [separate forms](https://media.clemson.edu/research/safety/DSCs/Incident_Report_Form.pdf) that must be filled out depending on whether or not medical treatment was required.
-
-### Emergencies
-Hurricane season is June 1 - November 30.
-In the event of a tropical storm or hurricane, please follow [state](https://www.scemd.org/stay-informed/publications/hurricane-guide), university, and PDREC guidelines.
-
-Loss of power is common at PDREC during storms.
-There is a generator for the building, but it occasionally fails.
-In the event of power loss while you're workign in the lab, unplug hot plates or other equipment and store in-progress samples if possible and safe. **Do not open any fridges or freezers if the power is off.**
-
-### References
-* [Clemson's Occupational and Environmental Safety](https://www.clemson.edu/research/oes/)
-* [Biological Safety](https://www.clemson.edu/research/oes/biosafety/)
-* [Hazardous Material Shipping](https://www.clemson.edu/research/oes/shipping.html)
-* [Hazardous Waste Management](https://www.clemson.edu/research/oes/hazardouswaste/)
-* [Lab Door Signs](https://www.clemson.edu/research/oes/lab-door.html)
-* [Lab Safety](https://www.clemson.edu/research/oes/chemsafety/)
-* [Online Safety Manuals](https://www.clemson.edu/research/oes/manuals/)
-* [Respiratory Protection](https://www.clemson.edu/research/oes/ihsafety/respiratoryprot.html)
 
 ## Other Policies {.page_break_before}
 
@@ -474,7 +473,7 @@ If you have any questions about the gas key you should contact Sam.
 The fuel card must be used for off-station fuel, along with a special PIN.
 Contact Jenifer Lind if you believe you will need a PIN to get fuel.
 
-### Pedantic Rules
+### File Naming
 Files shared over Slack or Email should include dates in the name using the `YYYYMMDD` format.
 
 
@@ -482,11 +481,13 @@ Files shared over Slack or Email should include dates in the name using the `YYY
 
 ### Academic expectations
 Graduate students in the lab will:
+
 * Maintain a GPA of 3.0 or higher
 * Let Trevor know when coursework needs to take priority over research
 * Adhere to the highest standards of academic honesty
 
 In turn, Trevor will:
+
 * Adjust expectations of time devoted to research based on the amount of academic work a lab member has at a given time
 * Provide guidance to lab members in strategically choosing coursework to meet long term educational goals
 
@@ -496,10 +497,12 @@ Keep in mind that Graduate assistants are limited to 12 credits per semester.
 The following requirements must be met through your planned course of study:
 
 *Masters:*
+
 * Minimum of 30 credits
 * At least half must be from courses numbered 8000 or above
 
 *PhD:*
+
 * Minimum of 30 credits beyond a masters and 60 credits beyond a bachelors (total)
 * Minimum 12 credit hours of non-thesis coursework
 * Minimum 18 hours of dissertation research
@@ -690,7 +693,7 @@ Purchases should not be made without prior approval.
 You are responsible for taking care of your plants.
 You must be trained before using the soil mixer.
 Discuss with Trevor before submitting [Greenhouse work order requests](https://www.clemson.edu/cafls/peedee/employees/greenhouse.html) for specific projects.
-[Jonathan K Windham](jwindha@clemson.edu) is the greenhouse manager and should be contacted for greenhouse questions or clarifications.
+[Jonathan K Windham](mailto:jwindha@clemson.edu) is the greenhouse manager and should be contacted for greenhouse questions or clarifications.
 
 ### Germplasm Storage
 Germplasm is stored in the cooler in the field lab.
@@ -702,7 +705,8 @@ Land use at the PDREC is allocated by the Land Use Committee, which includes the
 If you need land for an experiment, let Trevor know as soon as possible.
 
 Required details include:
-* Field number (see the [PDREC field map](/forms-and-docs/PDREC_land_requests/2018%20PDREC%20Field%20map%20with%20numbers.pdf))
+
+* Field number (see the [PDREC field map](todo))
 * Portion of field needed
 * Project title
 * Project start and end dates (for the specific field trial)
@@ -745,21 +749,6 @@ Barcode labels can be prepared with Bartender software.
 When preparing barcoded labels for your germplasm or plants, you should use one of the defined templates to ensure continuity in the lab.
 These templates should not be edited by students or postdocs.
 For field activities, two sets of labels should be printed: a poly one for stakes and a paper one for seed envelopes.
-
-#### Label maker software
-- Breedbase label creation tool
-  - Requires Breedbase instance
-  - Assumes 203dpi, so if you have a 300dpi printer, multiply the pixel dimensions by 3/2
-- [Bartender](https://www.seagullscientific.com)
-  - Commercial software requires license (Starter edition sufficient for most programs)
-  - Works out of the box (no need to worry about dpi)
-  - Labels are highly customizable
-  - Compatible with Excel and CSV files
-- [qrlabelr](https://github.com/awkena/qrlabelr)
-  - Free, open-source R package and Shiny app developed by the Geoff Morris Lab at Colorado State University
-  - Input field layout file in CSV, XLS, or XLSX formats
-- Other free online generators typically lack specialized layouts and batch processing
-- Custom scripts can be made to format label content into ZPL
 
 ## Coding {.page_break_before}
 
@@ -924,6 +913,7 @@ I will generally append my initials to file names after making comments (e.g., `
 Once you have incorporated changes, the file can be renamed with the current date before sending for comment.
 
 Draft manuscripts are required to have the following:
+
 * Line and page numbers
 * Full author list to help clarify any authorship issues or concerns
 * Placeholders for all sections (i.e., introduction, methods, results, discussion, etc.) even if they are empty
@@ -940,6 +930,7 @@ Reading manuscripts out loud to yourself is a good approach to catch sentences w
 Manuscripts with copious amounts of grammatical errors or sloppy writing may be returned to you without being reviewed.
 
 When writing, do your best to use clear and concise language and structure that is easy to read:
+
 * You never have to write “in this study”.
 * “Figure 1 shows the relationship between A and B. This relationship is linear.” VS. “The relationship between A and B is linear (Fig. 1).”
 * "Past research (Einstein, 1905) showed that space and time are linked." VS. "Space and time are linked (Einstein, 1905)."

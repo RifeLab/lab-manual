@@ -7,7 +7,6 @@ Barcode
 barcoded
 barcodes
 Bioraft
-Breedbase
 Buyways
 ccessibiliy
 CCIT
@@ -15,9 +14,7 @@ changeset
 changesets
 collaboratorss
 collegial
-CSV
 curation
-customizable
 dataset
 datasets
 direcly
@@ -26,7 +23,6 @@ DMP
 Endnote
 EPS
 euse
-Geoff
 Germplasm
 GPL
 guideance
@@ -67,10 +63,9 @@ preprint
 preprints
 proceedures
 puchases
-qrlabelr
 RCR
 readible
-readme
+README
 repo
 Reproducibility
 ResearchGate
@@ -95,7 +90,4 @@ Valerio
 Villegas
 Windham
 workign
-XLS
-XLSX
 Zotero
-ZPL
