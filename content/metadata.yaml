@@ -1,14 +1,11 @@
 ---
-title: "Manuscript Title"
+title: "Rife Lab Manual"
 date: null  # Defaults to date generated, but can specify like '2022-10-31'.
 keywords:
-  - markdown
-  - publishing
-  - manubot
 lang: en-US
 authors:
   - github: trife
-    name: Trevor "Cool Kid" Rife
+    name: Trevor Rife
     initials: TR
     orcid: 0000-0002-5974-6523
     email: twrife@clemson.edu
