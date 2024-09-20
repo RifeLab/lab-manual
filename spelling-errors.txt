@@ -23,7 +23,7 @@ DMP
 Endnote
 EPS
 euse
-Germplasm
+germplasm
 GPL
 guideance
 Hershberger
@@ -55,7 +55,7 @@ Peelle
 PES
 Phenapps
 phenotypes
-Phenotyping
+phenotyping
 Pitner
 pre
 predoctoral
@@ -68,6 +68,7 @@ readible
 README
 repo
 Reproducibility
+reqeusts
 ResearchGate
 reserach
 respositories

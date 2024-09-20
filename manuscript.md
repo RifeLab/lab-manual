@@ -19,8 +19,8 @@ header-includes: |
   <meta name="dc.date" content="2024-09-20" />
   <meta name="citation_publication_date" content="2024-09-20" />
   <meta property="article:published_time" content="2024-09-20" />
-  <meta name="dc.modified" content="2024-09-20T09:06:52+00:00" />
-  <meta property="article:modified_time" content="2024-09-20T09:06:52+00:00" />
+  <meta name="dc.modified" content="2024-09-20T10:06:04+00:00" />
+  <meta property="article:modified_time" content="2024-09-20T10:06:04+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -36,9 +36,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://trife.github.io/lab-manual/" />
   <meta name="citation_pdf_url" content="https://trife.github.io/lab-manual/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://trife.github.io/lab-manual/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://trife.github.io/lab-manual/v/6a7795db480ca54456c052448f10d523d8e54570/" />
-  <meta name="manubot_html_url_versioned" content="https://trife.github.io/lab-manual/v/6a7795db480ca54456c052448f10d523d8e54570/" />
-  <meta name="manubot_pdf_url_versioned" content="https://trife.github.io/lab-manual/v/6a7795db480ca54456c052448f10d523d8e54570/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://trife.github.io/lab-manual/v/94172ac2c0f4735c4c6ef730bc180db7e832266f/" />
+  <meta name="manubot_html_url_versioned" content="https://trife.github.io/lab-manual/v/94172ac2c0f4735c4c6ef730bc180db7e832266f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://trife.github.io/lab-manual/v/94172ac2c0f4735c4c6ef730bc180db7e832266f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,9 +60,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://trife.github.io/lab-manual/v/6a7795db480ca54456c052448f10d523d8e54570/))
+([permalink](https://trife.github.io/lab-manual/v/94172ac2c0f4735c4c6ef730bc180db7e832266f/))
 was automatically generated
-from [trife/lab-manual@6a7795d](https://github.com/trife/lab-manual/tree/6a7795db480ca54456c052448f10d523d8e54570)
+from [trife/lab-manual@94172ac](https://github.com/trife/lab-manual/tree/94172ac2c0f4735c4c6ef730bc180db7e832266f)
 on September 20, 2024.
 </em></small>
 
@@ -84,11 +84,6 @@ on September 20, 2024.
   </small>
 
 
-::: {#correspondence}
-✉ — Correspondence possible via [GitHub Issues](https://github.com/trife/lab-manual/issues)
-
-:::
-
 
 ## Introduction {.page_break_before}
 
@@ -103,13 +98,11 @@ You’re also highly encouraged to read it while deciding if you want to join th
 You should always feel free to talk to Trevor for clarity about anything in the lab manual or to suggest improvements.
 
 ### Mission
-
 The Rife lab seeks to develop, validate, and implement new tools and technologies into breeding programs around the globe.
 Using these tools, we aim to better understand the genetic control of economically important traits in crops that are regionally relevant for the Southeastern United States.
 Critical to this goal is training the next generation of scientists, creating a safe and inclusive space for research, and facilitating an open and collaborative environment that promotes scientific advancement.
 
 ### Guiding Principles
-
 1. Scientists are human beings. All human beings have equal innate value and are welcomed and encouraged to be their authentic selves in our lab.
 1. Lab groups are more creative, productive, and successful when people from diverse backgrounds collaborate with and learn from each other.
 1. A collegial and welcoming lab environment is the ideal way to encourage research excellence, extension excellence, personal growth, professional growth, and overall productivity.
@@ -120,12 +113,11 @@ Critical to this goal is training the next generation of scientists, creating a 
 1. We reflect regularly on how to become more effective and adjust behavior accordingly.
 
 ### Reference
-
 This manual was adapted from other lab manuals developed by [Casey Greene](https://github.com/greenelab/onboarding), [Jenna Hershberger](https://github.com/HershbergerLab/onboarding), [Mariam Aly](https://github.com/alylab/labmanual), [Jeffrey Ross-Ibara](http://rilab.ucdavis.edu/expectations.html), [Jonathan Peelle](https://github.com/jpeelle/peellelab_manual), [Valerio Hoyos-Villegas](https://www.pulsebreeding.ca/people/lab-policies), [Erin Sparks](https://www.braceroots.com/policies.html), [Amanda Hulse-Kemp](https://github.com/ahulsekemp), and [Jean-Luc Jannink](https://github.com/jeanlucj).
 This version is distributed under a CC-BY 4.0 License.
 
 The repository for this manual is on [GitHub](https://github.com/rifelab/lab-manual).
-To propose changes: fork the repository, edit the files you wish, and create a pull request.
+To propose changes: fork the repository, edit the files you wish, create a pull request, and assign Trevor to review the changes.
 
 ## Philosophy {.page_break_before}
 
@@ -280,7 +272,6 @@ Members are expected to behave respectfully, ethically, professionally and safel
 Mistreatment will not be tolerated.
 
 ### PI
-
 * Maintain and communicate a vision of where the lab is going.
 * Be accountable for the outputs from our research group.
 * Give perspective on the field and tips about surviving and thriving with your research.
@@ -296,7 +287,6 @@ Mistreatment will not be tolerated.
 * Care for your emotional and physical well-being, and prioritize that above all else.
 
 ### Staff
-
 * Contribute to guiding and developing the vision for where the lab is going.
 * Develop, support and help manage current grant projects.
 * Prepare and apply for grants to support lab interests.
@@ -308,7 +298,6 @@ Mistreatment will not be tolerated.
 * Be available on a regular basis.
 
 ### Postdocs
-
 * Develop your own independent line of research (plan, design, and conduct experiments).
 * Maintain legible and thorough documentation about your research including directories of data, annotated code, and detailed methods that are sufficient to reproduce results without additional instructions.
 * Write and submit manuscripts. I expect postdocs to publish at least 1-2 papers per year (as first or co-author).
@@ -323,7 +312,6 @@ Mistreatment will not be tolerated.
 * Treat the rest of the lab to your unique expertise.
 
 ### Graduate Students
-
 * Develop your dissertation or thesis research. A dissertation should have at least three substantial experiments that answer a big-picture question that you have. Much of your work has to be done independently, but remember that others in lab are there to help you when you need it.
 * Write and submit manuscripts. Students should produce at least three publications over the course of their PhD.
 * Plan, design, and conduct research projects, including establishing a timeline for when projects will be completed.
@@ -340,13 +328,11 @@ Mistreatment will not be tolerated.
 * Understand the requirements for your graduation (todo link to other section)
 
 ### Undergraduate students
-
 * Assist other lab members with data collection and analysis or work on your independent research project.
 * Develop a weekly schedule with your lab mentor that allows enough time each week to complete your work.
 * For course credit research, you must attend lab meetings, present at one lab meeting, and submit a write-up of your research by the end of the semester.
 
 ### Interns
-
 * Develop your research project that was outlined at the start of your internship.
 * Help other students in the lab when needed.
 * Present your work during lab meetings, through publication, to other labs, and/or conference presentations.
@@ -357,44 +343,13 @@ Mistreatment will not be tolerated.
 * Understand the University rules for your working hour limitations (generally 20 hours/week during semesters).
 
 ### Visiting Scientists
-
 * Develop your research project that was outlined as a part of your planned visit.
 * Mentor undergraduate students when needed.
 * Regularly meet with Trevor to report progress, present results, and discuss any concerns about your visit.
 * Present regularly at lab meetings on your project results.
 * Meet all deadlines regarding your visit and keep me informed of any information from your home institution related to your visit.
 
-## Leave and Hours {.page_break_before}
-
-### Leave
-These guidelines are intended to cover logistics for planned time off (2+ days in duration).
-
-#### Time Off Guidelines for Full-Time Rife Lab Members
-All full-time Rife Lab members are encouraged to take up to 15 days of vacation each year in addition to the 13 days of official University holiday (Martin Luther King Jr. Day, Memorial Day, Independence Day, Labor Day, Election Day, Thanksgiving (2 days), Winter break (6 days)).
-
-* There is flexibility to our leave policy- contact Trevor to discuss extenuating circumstances.
-* You are responsible for ensuring that your time off does not conflict with essential research activities, field data collection, satisfactory progress towards mutually agreed upon project goals, or maintenance of ongoing experiments or plants.
-* There are no restrictions on time of year that vacation may be taken, but you are responsible for being aware and cognizant of internal/external deadlines, prior commitments, and field data collection in scheduling your time off. As a seasonally driven lab, sometimes the opportunity for data collection comes only once per year. If this applies to you/your project, please take this into account when scheduling time off.
-* Notify Trevor of your plans to take time off at least two weeks in advance.
-* You are not expected to provide a weekly update during a week where you are taking 3+ days off.
-If you are taking 1 or 2 days off, plan to submit your update either before you leave or after you return.
-* There is no expectation for Slack replies during your vacation.
-* Urgent matters/emergencies will be addressed via phone calls. Only call a colleague who is on vacation if the matter is urgent and time sensitive. If you expect to be fully out of contact during your vacation, please designate someone able to make decisions on your behalf in event of emergency.
-
-#### Other Leave
-* If you are sick, you are encouraged to rest as much as needed. This does not count as vacation. This is being sick.
-* If you are on parental leave, this is not vacation. This is being on parental leave, and does not count towards your time off.
-* Religious observance counts towards vacation time. The Rife Lab closes for two weeks during the winter season beginning on the Winter Solstice (Dec 21). Time off for weekday religious holidays outside of this closure counts as time off.
-
-### Remote Work
-
-Work from whatever location best facilitates your ability to complete the duties of your job and supports your productivity.
-There is no limit on work remote, as long as you are making satisfactory progress towards mutually agreed upon goals as determined by you and Trevor.
-However, you are encouraged to make time for regular in-person interactions with lab members and department colleagues.
-
-* You are responsible for ensuring that working remote does not conflict with essential in-person activities such as data collection and/or maintenance of ongoing experiments or plants. This includes identifying a colleague to water your plants while you are working remote.
-* Remote work is to be scheduled around field data collection and/or lab experiments, not the other way around.
-* If you are working from a different time zone, you are responsible for accommodating your work schedule around your Easter Timezone colleagues when necessary.
+## Hours and Leave {.page_break_before}
 
 ### Hours
 Flexible working hours are a big benefit to working in an academic lab.
@@ -416,6 +371,36 @@ I will occassionally send emails or Slack messages outside of normal working hou
 If off-hours messages are unwelcome, please let me know.
 In case of emergencies, contact me by cell phone at any time.
 
+### Remote Work
+Work from whatever location best facilitates your ability to complete the duties of your job and supports your productivity.
+There is no limit on work remote, as long as you are making satisfactory progress towards mutually agreed upon goals as determined by you and Trevor.
+However, you are encouraged to make time for regular in-person interactions with lab members and department colleagues.
+
+* You are responsible for ensuring that working remote does not conflict with essential in-person activities such as data collection and/or maintenance of ongoing experiments or plants. This includes identifying a colleague to water your plants while you are working remote.
+* Remote work is to be scheduled around field data collection and/or lab experiments, not the other way around.
+* If you are working from a different time zone, you are responsible for accommodating your work schedule around your Easter Timezone colleagues when necessary.
+
+### Leave
+These guidelines are intended to cover logistics for planned time off (2+ days in duration).
+
+#### Time Off Guidelines for Full-Time Rife Lab Members
+All full-time Rife Lab members are encouraged to take up to 15 days of vacation each year in addition to the 13 days of official University holiday (Martin Luther King Jr. Day, Memorial Day, Independence Day, Labor Day, Election Day, Thanksgiving (2 days), Winter break (6 days)).
+
+* There is flexibility to our leave policy- contact Trevor to discuss extenuating circumstances.
+* You are responsible for ensuring that your time off does not conflict with essential research activities, field data collection, satisfactory progress towards mutually agreed upon project goals, or maintenance of ongoing experiments or plants.
+* There are no restrictions on time of year that vacation may be taken, but you are responsible for being aware and cognizant of internal/external deadlines, prior commitments, and field data collection in scheduling your time off. As a seasonally driven lab, sometimes the opportunity for data collection comes only once per year. If this applies to you/your project, please take this into account when scheduling time off.
+* Notify Trevor of your plans to take time off at least two weeks in advance.
+* You are not expected to provide a weekly update during a week where you are taking 3+ days off.
+If you are taking 1 or 2 days off, plan to submit your update either before you leave or after you return.
+* There is no expectation for Slack replies during your vacation.
+* Urgent matters/emergencies will be addressed via phone calls. Only call a colleague who is on vacation if the matter is urgent and time sensitive. If you expect to be fully out of contact during your vacation, please designate someone able to make decisions on your behalf in event of emergency.
+
+#### Other Leave
+* If you are sick, you are encouraged to rest as much as needed. This does not count as vacation. This is being sick.
+* If you are on parental leave, this is not vacation. This is being on parental leave, and does not count towards your time off.
+* Religious observance counts towards vacation time. The Rife Lab closes for two weeks during the winter season beginning on the Winter Solstice (Dec 21). Time off for weekday religious holidays outside of this closure counts as time off.
+
+
 ## Other Policies {.page_break_before}
 
 ### Reproducible Research
@@ -425,18 +410,6 @@ Experimental design, analysis scripts, and pipelines should be well-documented a
 An organized physical or electronic lab notebook is required to help document how and in what order activities were performed (pre-processing data, running models, statistical tests).
 It is highly encouraged that you use version control (e.g., Git in combination with GitHub) to manage project development, facilitate long-term maintenance, and simplify code sharing.
 The lab’s GitHub is https://github.com/RifeLab and new repositories can be created to host specific projects.
-
-### Noise Policy
-Ensuring that lab members get along and want to spend time with one another is a critical aspect to developing a productive, friendly, and positive lab environment.
-But I also realize that you are all very busy and want to have a place to focus and work quietly.
-While we do not have specific quiet time hours, please respect other people's needs to work quietly in labs and offices.
-If someone is wearing headphones, respect their desire for isolation (with obvious exceptions for emergencies). 
-If you required additional quiet or privacy for specific work or projects, feel free to work from home, a library, or anywhere else.
-
-### Old projects
-If a student or postdoc collects a dataset but does not completely analyze it or write it up within 2 years after the end of data collection, the project will be re-assigned to another person to expedite publication.
-If a student or postdoc voluntarily relinquishes their rights to the project prior to the 2-year window, Trevor will also re-assign the project.
-This policy ensures that data and results are published but ensures priority is given to the person who initially collected the data.
 
 ### Deadlines
 Organization is vital to maintaining sanity in academia.
@@ -457,14 +430,9 @@ If the letter is for a faculty position, include your research and teaching stat
 In many cases, you may also be asked to submit a draft of a letter, which will be extensively modified, made more glamorous, and edited to add anything important that you left out.
 While this process will likely feel awkward, it ensures that the letter contains all the information you need, and that it can be submitted on time.
 
-### IP/Openness
-Intellectual Property guidelines are handled in accordance with the instructions from our research sponsors and university guidance.
-Lab members must follow the [Clemson Participation Agreement](https://ci.clemson.edu/assets/docs/ip/archive/Student%20Participation%20Agreement%20-%20For%20Use%20in%20Sponsored%20Course%20Projects.pdf) and the agreements with our sponsors.
-These often allow, encourage, or require openness.
-If you have concerns at any point, set up a meeting with Trevor to discuss these concerns.
-
 ### Vehicles
-The Rife Lab is responsible for a state-owned Tahoe to be used to complete research and field activities. 
+The Rife Lab is responsible for a state-owned Tahoe to be used to complete research and field activities.
+In order to drive state vehicles, you are required to take an online training course.
 The mileage log must be filled out whenever the Tahoe is used and turned in monthly.
 Blank logs are available in the mail room.
 For state vehicles, gas can be pumped on station.
@@ -472,6 +440,24 @@ There is a small receipt book kept near the gas tank where you can record your n
 If you have any questions about the gas key you should contact Sam.
 The fuel card must be used for off-station fuel, along with a special PIN.
 Contact Jenifer Lind if you believe you will need a PIN to get fuel.
+
+### Noise Policy
+Ensuring that lab members get along and want to spend time with one another is a critical aspect to developing a productive, friendly, and positive lab environment.
+But I also realize that you are all very busy and want to have a place to focus and work quietly.
+While we do not have specific quiet time hours, please respect other people's needs to work quietly in labs and offices.
+If someone is wearing headphones, respect their desire for isolation (with obvious exceptions for emergencies). 
+If you required additional quiet or privacy for specific work or projects, feel free to work from home, a library, or anywhere else.
+
+### Old projects
+If a student or postdoc collects a dataset but does not completely analyze it or write it up within 2 years after the end of data collection, the project will be re-assigned to another person to expedite publication.
+If a student or postdoc voluntarily relinquishes their rights to the project prior to the 2-year window, Trevor will also re-assign the project.
+This policy ensures that data and results are published but ensures priority is given to the person who initially collected the data.
+
+### IP/Openness
+Intellectual Property guidelines are handled in accordance with the instructions from our research sponsors and university guidance.
+Lab members must follow the [Clemson Participation Agreement](https://ci.clemson.edu/assets/docs/ip/archive/Student%20Participation%20Agreement%20-%20For%20Use%20in%20Sponsored%20Course%20Projects.pdf) and the agreements with our sponsors.
+These often allow, encourage, or require openness.
+If you have concerns at any point, set up a meeting with Trevor to discuss these concerns.
 
 ### File Naming
 Files shared over Slack or Email should include dates in the name using the `YYYYMMDD` format.
@@ -507,14 +493,6 @@ The following requirements must be met through your planned course of study:
 * Minimum 12 credit hours of non-thesis coursework
 * Minimum 18 hours of dissertation research
 
-### Comprehensive examination
-The comprehensive exam is designed to evaluate your overall mastery of a body of knowledge and skills after completing most of the program of study.
-Satisfactory completion of the comprehensive examination must occur at least six months before graduation.
-The advisory committee meets with the student and sets the details and rules for the examination.
-Written examinations should be evaluated and returned to the student with appropriate comments before the oral examination.
-The oral examination will include questions covering areas where weakness was demonstrated on the written examinations.
-Oral exams typically last 2 to 3 hours.
-
 ### Graduate advisory committee
 Every graduate student is required to have a graduate committee made up of graduate faculty members, with at least half being from PES.
 Masters students must have a minimum of three faculty members on their committee and the committee must be formed no later than the middle of their second semester.
@@ -525,6 +503,14 @@ Graduate students will interact with their advisory committees regularly.
 Students should consult the graduate student handbook and/or correspond with the coordinator for their graduate program ([Guido Schnabel](https://www.clemson.edu/cafls/faculty_staff/profiles/schnabe)) to understand the expectations that exist around communication with committee members.
 Questions around what document(s) their committee will expect to see and when they should be sent to the committee should be resolved with the committee at least a month in advance of a scheduled meeting.
 Students in the Rife Lab are not to provide food or drinks for committee members.
+
+### Comprehensive examination
+The comprehensive exam is designed to evaluate your overall mastery of a body of knowledge and skills after completing most of the program of study.
+Satisfactory completion of the comprehensive examination must occur at least six months before graduation.
+The advisory committee meets with the student and sets the details and rules for the examination.
+Written examinations should be evaluated and returned to the student with appropriate comments before the oral examination.
+The oral examination will include questions covering areas where weakness was demonstrated on the written examinations.
+Oral exams typically last 2 to 3 hours.
 
 ### Graduate student associations
 Both the PES department and the PDREC have active graduate student associations.
@@ -577,7 +563,7 @@ The Rife Lab uses [GitHub](https://github.com/rifelab) to store and share code a
 
 #### Calendars
 The lab has a shared calendars with activities relevant for the entire lab.
-This calendar is used to keep track of lab events, lab meetings, travel schedules, and birthdays!
+This calendar is used to keep track of lab events, lab meetings, travel schedules, and birthdays.
 
 #### Box
 The lab has a shared Box folder that is used to store large amounts of experimental data.
@@ -612,11 +598,20 @@ If you forget your gate code, talk to Mandy.
 If you are hosting a visitor who will be arriving separately, let Mandy know when to expect them and either meet them at the gate or give them driving instructions to the front of the Pitner Center.
 
 #### Work Orders
-Maintenance requests can be created by submitting a work order request using [this form](https://www.clemson.edu/cafls/peedee/employees/maintenance.html).
+[Maintenance requests](https://www.clemson.edu/cafls/peedee/employees/maintenance.html) and [Greenhouse reqeusts](https://www.clemson.edu/cafls/peedee/employees/greenhouse.html) can be created by submitting a work order request form.
+Discuss with Trevor before submitting to determine specifics for the request.
 Mandy receives all of the request submissions and forwards them to the REC director and facilities lead (Sam Goodman).
 Please keep this in mind when writing your request and ask nicely!
 
 ## Meetings {.page_break_before}
+
+### Individual Meetings
+I attempt to meet individually with all lab members for about an hour each week.
+The goal of the weekly meeting is to discuss research challenges and plan strategy.
+Individual meetings can be in person or via Zoom--bring your computer if the meeting is in person.
+You are responsible for updating OneNote prior to the meeting with what you accomplished over the last week and what tasks you aim to complete by the next week.
+A product of the meeting is a list of what you want to do before the next meeting.
+By default, I do not reschedule individual meetings due to scheduling conflicts, but I will annotate your OneNote page to answer any questions or provide insights.
 
 ### Weekly Lab Meetings
 The Rife Lab holds a joint weekly lab meeting with the Hershberger Lab at PDREC.
@@ -633,14 +628,6 @@ These meetings serve as a forum to discuss upcoming changes to software being de
 Developers are limited to 10m to discuss what they are working on, give quick demos, and solicit feedback from participants.
 The second half of these meetings are an opportunity to provide support to external users or research groups that join the meeting.
 All developers are expected to attend and participate in every meeting (barring excused absences due to illnesses, doctor appointments, family issues, etc.).
-
-### Individual Meetings
-I attempt to meet individually with all lab members for about an hour each week.
-The goal of the weekly meeting is to discuss research challenges and plan strategy.
-Individual meetings can be in person or via Zoom--bring your computer if the meeting is in person.
-You are responsible for updating OneNote prior to the meeting with what you accomplished over the last week and what tasks you aim to complete by the next week.
-A product of the meeting is a list of what you want to do before the next meeting.
-By default, I do not reschedule individual meetings due to scheduling conflicts, but I will annotate your OneNote page to answer any questions or provide insights.
 
 ### Journal Club
 Journal club is an opportunity for lab members to strengthen their ability to comprehend and critically analyze published research.
@@ -688,19 +675,15 @@ Reimbursement requires proper documentation including the purchase receipt.
 Purchases should not be made without prior approval.
 
 ## Field and Greenhouse {.page_break_before}
- 
-### Greenhouse
-You are responsible for taking care of your plants.
-You must be trained before using the soil mixer.
-Discuss with Trevor before submitting [Greenhouse work order requests](https://www.clemson.edu/cafls/peedee/employees/greenhouse.html) for specific projects.
-[Jonathan K Windham](mailto:jwindha@clemson.edu) is the greenhouse manager and should be contacted for greenhouse questions or clarifications.
 
-### Germplasm Storage
-Germplasm is stored in the cooler in the field lab.
-If you are performing an experiment and determine there is insufficinet source seed avaialable, contact Trevor and do not use all of the remaining seeds.
-Keep the cooler door shut when not moving seed between rooms.
+### Field Experiments
+Experiments should be designed to be easily analyzed, control error, and give reasonable assurance that the differences between treatments will be detected.
+For general breeding experiments, Trevor will provide a trial layout file one month before the planting date.
+Reproducible R scripts (with set seeds) should be used to design your field experiments.
+Write out the statistical model you will use to analyze your data when you are designing your experiment.
+When in doubt, consult a statistician.
 
-### Land Requests
+#### Land Requests
 Land use at the PDREC is allocated by the Land Use Committee, which includes the station Director, Farm Manager, and three resident faculty and/or extension associates.
 If you need land for an experiment, let Trevor know as soon as possible.
 
@@ -717,19 +700,12 @@ Land use decisions are made at the beginning of the calendar year, so if we do n
 Fields are assigned by the PDREC Land Use Committee. 
 Irrigated fields must be requested using the PDREC Land Use form approximately seven months before desired planting date.
 
-### PDREC Farm Crew
+#### PDREC Farm Crew
 The PDREC farm crew will assist individual projects with field preparation, planting, and maintenance.
 The farm crew will help as needed, but **do not expect the farm crew to perform data collection for you.**
 The farm crew works from ~7am-3pm ET, so plan accordingly if you need assistance with your field experiments.
 
-### Field Experiments
-Experiments should be designed to be easily analyzed, control error, and give reasonable assurance that the differences between treatments will be detected.
-For general breeding experiments, Trevor will provide a trial layout file one month before the planting date.
-Reproducible R scripts (with set seeds) should be used to design your field experiments.
-Write out the statistical model you will use to analyze your data when you are designing your experiment.
-When in doubt, consult a statistician.
-
-### Phenotyping
+#### Phenotyping
 Decide on the phenotypes to capture as the experiment is being designed.
 Use public ontologies to select traits and follow the methods described there to capture the phenotypes.
 Do not create your own method unless you have double checked that existing methods do not meet your needs.
@@ -749,6 +725,17 @@ Barcode labels can be prepared with Bartender software.
 When preparing barcoded labels for your germplasm or plants, you should use one of the defined templates to ensure continuity in the lab.
 These templates should not be edited by students or postdocs.
 For field activities, two sets of labels should be printed: a poly one for stakes and a paper one for seed envelopes.
+
+### Greenhouse
+You are responsible for taking care of your plants.
+You must be trained before using the soil mixer.
+[Jonathan K Windham](mailto:jwindha@clemson.edu) is the greenhouse manager and should be contacted for greenhouse questions or clarifications.
+
+### Germplasm Storage
+Germplasm is stored in the cooler in the field lab.
+If you are performing an experiment and determine there is insufficinet source seed avaialable, contact Trevor and do not use all of the remaining seeds.
+Keep the cooler door shut when not moving seed between rooms.
+
 
 ## Coding {.page_break_before}
 
@@ -908,7 +895,7 @@ In the Rife Lab, **a citation manager is required** for all manuscripts.
 Examples of citation managers include Zotero (preferred), Mendeley, Endnote, Paperpile, etc.
 
 ### Naming and Formatting
-When naming files to send to Trevor or external collaboratorss, include your name and a date in the filename (e.g., `hersh_cv_20240917.docx`).
+When naming offline files to send to Trevor or external collaboratorss, include your name and a date in the filename (e.g., `hersh_cv_20240917.docx`).
 I will generally append my initials to file names after making comments (e.g., `hersh_cv_20240917_twr`).
 Once you have incorporated changes, the file can be renamed with the current date before sending for comment.
 
@@ -960,7 +947,7 @@ If you feel that your contributions to another's work merit authorship but you h
 ### References
 * [10 rules for writing a paper](https://www.science.org/content/article/how-write-research-paper)
 * Writing Science, by Joshua Schimel
-* [File naming guidelines](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf.)
+* [File naming guidelines](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf)
 
 ## Reading {.page_break_before}
 
