@@ -55,7 +55,7 @@ Peelle
 PES
 Phenapps
 phenotypes
-Phenotyping
+phenotyping
 Pitner
 pre
 predoctoral
@@ -67,7 +67,7 @@ RCR
 readible
 README
 repo
-reproducibility
+Reproducibility
 reqeusts
 ResearchGate
 reserach
