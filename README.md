@@ -2,9 +2,9 @@
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
-[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://trife.github.io/lab-manual/)
-[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://trife.github.io/lab-manual/manuscript.pdf)
-[![GitHub Actions Status](https://github.com/trife/lab-manual/workflows/Manubot/badge.svg)](https://github.com/trife/lab-manual/actions)
+[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://rifelab.github.io/lab-manual/)
+[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://rifelab.github.io/lab-manual/manuscript.pdf)
+[![GitHub Actions Status](https://github.com/trife/lab-manual/workflows/Manubot/badge.svg)](https://github.com/rifelab/lab-manual/actions)
 
 ## Description
 
