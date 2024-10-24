@@ -2,7 +2,7 @@
 title: Rife Lab Manual
 keywords: null
 lang: en-US
-date-meta: '2024-09-20'
+date-meta: '2024-10-24'
 author-meta:
 - Trevor Rife
 header-includes: |
@@ -16,11 +16,11 @@ header-includes: |
   <meta name="citation_title" content="Rife Lab Manual" />
   <meta property="og:title" content="Rife Lab Manual" />
   <meta property="twitter:title" content="Rife Lab Manual" />
-  <meta name="dc.date" content="2024-09-20" />
-  <meta name="citation_publication_date" content="2024-09-20" />
-  <meta property="article:published_time" content="2024-09-20" />
-  <meta name="dc.modified" content="2024-09-20T10:06:04+00:00" />
-  <meta property="article:modified_time" content="2024-09-20T10:06:04+00:00" />
+  <meta name="dc.date" content="2024-10-24" />
+  <meta name="citation_publication_date" content="2024-10-24" />
+  <meta property="article:published_time" content="2024-10-24" />
+  <meta name="dc.modified" content="2024-10-24T21:22:17+00:00" />
+  <meta property="article:modified_time" content="2024-10-24T21:22:17+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -30,15 +30,15 @@ header-includes: |
   <meta name="citation_author" content="Trevor Rife" />
   <meta name="citation_author_institution" content="Clemson University" />
   <meta name="citation_author_orcid" content="0000-0002-5974-6523" />
-  <link rel="canonical" href="https://trife.github.io/lab-manual/" />
-  <meta property="og:url" content="https://trife.github.io/lab-manual/" />
-  <meta property="twitter:url" content="https://trife.github.io/lab-manual/" />
-  <meta name="citation_fulltext_html_url" content="https://trife.github.io/lab-manual/" />
-  <meta name="citation_pdf_url" content="https://trife.github.io/lab-manual/manuscript.pdf" />
-  <link rel="alternate" type="application/pdf" href="https://trife.github.io/lab-manual/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://trife.github.io/lab-manual/v/94172ac2c0f4735c4c6ef730bc180db7e832266f/" />
-  <meta name="manubot_html_url_versioned" content="https://trife.github.io/lab-manual/v/94172ac2c0f4735c4c6ef730bc180db7e832266f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://trife.github.io/lab-manual/v/94172ac2c0f4735c4c6ef730bc180db7e832266f/manuscript.pdf" />
+  <link rel="canonical" href="https://RifeLab.github.io/lab-manual/" />
+  <meta property="og:url" content="https://RifeLab.github.io/lab-manual/" />
+  <meta property="twitter:url" content="https://RifeLab.github.io/lab-manual/" />
+  <meta name="citation_fulltext_html_url" content="https://RifeLab.github.io/lab-manual/" />
+  <meta name="citation_pdf_url" content="https://RifeLab.github.io/lab-manual/manuscript.pdf" />
+  <link rel="alternate" type="application/pdf" href="https://RifeLab.github.io/lab-manual/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://RifeLab.github.io/lab-manual/v/94172ac2c0f4735c4c6ef730bc180db7e832266f/" />
+  <meta name="manubot_html_url_versioned" content="https://RifeLab.github.io/lab-manual/v/94172ac2c0f4735c4c6ef730bc180db7e832266f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://RifeLab.github.io/lab-manual/v/94172ac2c0f4735c4c6ef730bc180db7e832266f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,10 +60,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://trife.github.io/lab-manual/v/94172ac2c0f4735c4c6ef730bc180db7e832266f/))
+([permalink](https://RifeLab.github.io/lab-manual/v/94172ac2c0f4735c4c6ef730bc180db7e832266f/))
 was automatically generated
-from [trife/lab-manual@94172ac](https://github.com/trife/lab-manual/tree/94172ac2c0f4735c4c6ef730bc180db7e832266f)
-on September 20, 2024.
+from [RifeLab/lab-manual@94172ac](https://github.com/RifeLab/lab-manual/tree/94172ac2c0f4735c4c6ef730bc180db7e832266f)
+on October 24, 2024.
 </em></small>
 
 
