@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/RifeLab/lab-manual/tree/gh-pages) branch hosts the contents of this directory at <https://RifeLab.github.io/lab-manual/>.
-The permalink for this webpage version is <https://RifeLab.github.io/lab-manual/v/3df361ecc41a118031b16271fab1ce13b9fe899e/>.
+The permalink for this webpage version is <https://RifeLab.github.io/lab-manual/v/aae71a3d9e50b29cc7d7c28518fce28f7321ca26/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://RifeLab.github.io/lab-manual/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`3df361ecc41a118031b16271fab1ce13b9fe899e`](https://github.com/RifeLab/lab-manual/commit/3df361ecc41a118031b16271fab1ce13b9fe899e).
+[`aae71a3d9e50b29cc7d7c28518fce28f7321ca26`](https://github.com/RifeLab/lab-manual/commit/aae71a3d9e50b29cc7d7c28518fce28f7321ca26).
