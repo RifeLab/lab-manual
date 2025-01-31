@@ -2,7 +2,7 @@
 title: Rife Lab Manual
 keywords: null
 lang: en-US
-date-meta: '2024-10-24'
+date-meta: '2025-01-31'
 author-meta:
 - Trevor Rife
 header-includes: |
@@ -16,11 +16,11 @@ header-includes: |
   <meta name="citation_title" content="Rife Lab Manual" />
   <meta property="og:title" content="Rife Lab Manual" />
   <meta property="twitter:title" content="Rife Lab Manual" />
-  <meta name="dc.date" content="2024-10-24" />
-  <meta name="citation_publication_date" content="2024-10-24" />
-  <meta property="article:published_time" content="2024-10-24" />
-  <meta name="dc.modified" content="2024-10-24T21:23:41+00:00" />
-  <meta property="article:modified_time" content="2024-10-24T21:23:41+00:00" />
+  <meta name="dc.date" content="2025-01-31" />
+  <meta name="citation_publication_date" content="2025-01-31" />
+  <meta property="article:published_time" content="2025-01-31" />
+  <meta name="dc.modified" content="2025-01-31T22:10:30+00:00" />
+  <meta property="article:modified_time" content="2025-01-31T22:10:30+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -36,9 +36,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://RifeLab.github.io/lab-manual/" />
   <meta name="citation_pdf_url" content="https://RifeLab.github.io/lab-manual/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://RifeLab.github.io/lab-manual/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://RifeLab.github.io/lab-manual/v/3df361ecc41a118031b16271fab1ce13b9fe899e/" />
-  <meta name="manubot_html_url_versioned" content="https://RifeLab.github.io/lab-manual/v/3df361ecc41a118031b16271fab1ce13b9fe899e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://RifeLab.github.io/lab-manual/v/3df361ecc41a118031b16271fab1ce13b9fe899e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://RifeLab.github.io/lab-manual/v/aae71a3d9e50b29cc7d7c28518fce28f7321ca26/" />
+  <meta name="manubot_html_url_versioned" content="https://RifeLab.github.io/lab-manual/v/aae71a3d9e50b29cc7d7c28518fce28f7321ca26/" />
+  <meta name="manubot_pdf_url_versioned" content="https://RifeLab.github.io/lab-manual/v/aae71a3d9e50b29cc7d7c28518fce28f7321ca26/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,10 +60,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://RifeLab.github.io/lab-manual/v/3df361ecc41a118031b16271fab1ce13b9fe899e/))
+([permalink](https://RifeLab.github.io/lab-manual/v/aae71a3d9e50b29cc7d7c28518fce28f7321ca26/))
 was automatically generated
-from [RifeLab/lab-manual@3df361e](https://github.com/RifeLab/lab-manual/tree/3df361ecc41a118031b16271fab1ce13b9fe899e)
-on October 24, 2024.
+from [RifeLab/lab-manual@aae71a3](https://github.com/RifeLab/lab-manual/tree/aae71a3d9e50b29cc7d7c28518fce28f7321ca26)
+on January 31, 2025.
 </em></small>
 
 
@@ -993,8 +993,8 @@ If you are going to give a presentation, be prepared to give a practice presenta
 
 #### Posters
 Posters must be circulated to all authors at least one week before the printing deadline.
-Templates for posters will be available, and you can use those as much or as little as you’d like.
-Some general rules for posters should be followed: minimize text as much as possible, make figures and text large and easy to see at a distance, label your axes, and make sure different colors are easily discriminable.
+Templates for posters are available in the `posters` repository and final posters should try to match the overall design and style of the template.
+General rules for posters: minimize text as much as possible, make figures and text large and easy to see at a distance, label your axes, and make sure different colors are easily discriminable.
 Make sure to double and triple check that your dimensions match the requested size and orientation for your event (especially orientation!).
 
 #### Oral Presentations

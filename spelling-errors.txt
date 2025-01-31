@@ -15,15 +15,13 @@ changesets
 collaboratorss
 collegial
 curation
-dataset
-datasets
 direcly
 discriminable
 DMP
 Endnote
 EPS
 euse
-germplasm
+Germplasm
 GPL
 guideance
 Hershberger
@@ -55,7 +53,7 @@ Peelle
 PES
 Phenapps
 phenotypes
-phenotyping
+Phenotyping
 Pitner
 pre
 predoctoral
@@ -65,9 +63,9 @@ proceedures
 puchases
 RCR
 readible
-README
+readme
 repo
-Reproducibility
+reproducibility
 reqeusts
 ResearchGate
 reserach
