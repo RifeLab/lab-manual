@@ -5,7 +5,7 @@ authorships
 avaialable
 Barcode
 barcoded
-barcodes
+Barcodes
 Bioraft
 Buyways
 ccessibiliy
@@ -21,7 +21,7 @@ DMP
 Endnote
 EPS
 euse
-Germplasm
+germplasm
 GPL
 guideance
 Hershberger
@@ -53,7 +53,7 @@ Peelle
 PES
 Phenapps
 phenotypes
-Phenotyping
+phenotyping
 Pitner
 pre
 predoctoral
@@ -63,7 +63,7 @@ proceedures
 puchases
 RCR
 readible
-readme
+README
 repo
 reproducibility
 reqeusts

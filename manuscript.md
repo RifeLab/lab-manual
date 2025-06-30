@@ -2,7 +2,7 @@
 title: Rife Lab Manual
 keywords: null
 lang: en-US
-date-meta: '2025-01-31'
+date-meta: '2025-06-30'
 author-meta:
 - Trevor Rife
 header-includes: |
@@ -16,11 +16,11 @@ header-includes: |
   <meta name="citation_title" content="Rife Lab Manual" />
   <meta property="og:title" content="Rife Lab Manual" />
   <meta property="twitter:title" content="Rife Lab Manual" />
-  <meta name="dc.date" content="2025-01-31" />
-  <meta name="citation_publication_date" content="2025-01-31" />
-  <meta property="article:published_time" content="2025-01-31" />
-  <meta name="dc.modified" content="2025-01-31T22:10:30+00:00" />
-  <meta property="article:modified_time" content="2025-01-31T22:10:30+00:00" />
+  <meta name="dc.date" content="2025-06-30" />
+  <meta name="citation_publication_date" content="2025-06-30" />
+  <meta property="article:published_time" content="2025-06-30" />
+  <meta name="dc.modified" content="2025-06-30T19:02:58+00:00" />
+  <meta property="article:modified_time" content="2025-06-30T19:02:58+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -36,9 +36,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://RifeLab.github.io/lab-manual/" />
   <meta name="citation_pdf_url" content="https://RifeLab.github.io/lab-manual/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://RifeLab.github.io/lab-manual/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://RifeLab.github.io/lab-manual/v/aae71a3d9e50b29cc7d7c28518fce28f7321ca26/" />
-  <meta name="manubot_html_url_versioned" content="https://RifeLab.github.io/lab-manual/v/aae71a3d9e50b29cc7d7c28518fce28f7321ca26/" />
-  <meta name="manubot_pdf_url_versioned" content="https://RifeLab.github.io/lab-manual/v/aae71a3d9e50b29cc7d7c28518fce28f7321ca26/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://RifeLab.github.io/lab-manual/v/604c115ee5471630815ece252dd2ef6740c8e7b3/" />
+  <meta name="manubot_html_url_versioned" content="https://RifeLab.github.io/lab-manual/v/604c115ee5471630815ece252dd2ef6740c8e7b3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://RifeLab.github.io/lab-manual/v/604c115ee5471630815ece252dd2ef6740c8e7b3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,10 +60,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://RifeLab.github.io/lab-manual/v/aae71a3d9e50b29cc7d7c28518fce28f7321ca26/))
+([permalink](https://RifeLab.github.io/lab-manual/v/604c115ee5471630815ece252dd2ef6740c8e7b3/))
 was automatically generated
-from [RifeLab/lab-manual@aae71a3](https://github.com/RifeLab/lab-manual/tree/aae71a3d9e50b29cc7d7c28518fce28f7321ca26)
-on January 31, 2025.
+from [RifeLab/lab-manual@604c115](https://github.com/RifeLab/lab-manual/tree/604c115ee5471630815ece252dd2ef6740c8e7b3)
+on June 30, 2025.
 </em></small>
 
 
