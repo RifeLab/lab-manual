@@ -154,7 +154,6 @@ INPUT out/checklist.out
 INPUT out/checklist.out
 INPUT out/checklist.out
 OUTPUT out/checklist.out
-OUTPUT out/checklist.xdv
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
@@ -164,6 +163,7 @@ INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+OUTPUT out/checklist.xdv
 INPUT out/checklist.aux
 INPUT out/checklist.out
 INPUT out/checklist.out
